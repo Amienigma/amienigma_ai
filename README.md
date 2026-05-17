@@ -42,3 +42,7 @@ This project is the beginning framework for an experimental AI archive capable o
 
 ## Status
 Early foundation build.
+
+transformers
+torch
+
