@@ -1,15 +1,44 @@
 # amienigma_ai
 # Amienigma AI
 
-A recursive information system exploring art, neglect,
-memory, symbolism, and hidden pathways across media.
-from transformers import pipeline
+# AMIENIGMA ARCHIVE AI
 
-ai = pipeline("text-generation", model="gpt2")
+> "The mission is every mission that is about information."
 
-prompt = input("Enter prompt: ")
+An evolving archive intelligence system dedicated to:
+- art
+- memory
+- neglect
+- symbolism
+- recursive discovery
+- hidden pathways across media
 
-response = ai(prompt, max_length=100)
+This project is the beginning framework for an experimental AI archive capable of:
+- organizing information
+- generating connections
+- analyzing uploaded media
+- creating rabbit holes between subjects
+- preserving forgotten digital artifacts
 
-print(response[0]["generated_text"])
+## Current Features
+- Text generation
+- Archive logging
+- Prompt exploration
+- Experimental memory system
 
+## Future Goals
+- Image analysis
+- Interactive knowledge maps
+- Symbolic tagging engine
+- Autonomous archive crawler
+- AI-generated pathways between media
+
+## Technologies
+- Python
+- Transformers
+- Hugging Face
+- GitHub
+- Experimental AI systems
+
+## Status
+Early foundation build.
