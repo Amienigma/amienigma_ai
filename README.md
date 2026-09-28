@@ -1,48 +1,54 @@
-# amienigma_ai
-# Amienigma AI
+# Archive Intelligence — vision notebook
 
-# AMIENIGMA ARCHIVE AI
+`amienigma_ai`
 
-> "The mission is every mission that is about information."
+> “The mission is every mission that is about information.”
 
-An evolving archive intelligence system dedicated to:
-- art
-- memory
-- neglect
-- symbolism
-- recursive discovery
-- hidden pathways across media
+This repository is an **early vision / research notebook** (from around May 2026) for **Archive Intelligence** — ideas about art, memory, neglect, symbolism, recursive discovery, and hidden pathways across media.
 
-This project is the beginning framework for an experimental AI archive capable of:
-- organizing information
-- generating connections
-- analyzing uploaded media
-- creating rabbit holes between subjects
-- preserving forgotten digital artifacts
+It is **not** the shipping product. The product is **Amienigma AI**:
 
-## Current Features
-- Text generation
-- Archive logging
-- Prompt exploration
-- Experimental memory system
+→ **[Amienigma/amienigma-llm](https://github.com/Amienigma/amienigma-llm)** — ask anything, paint stills, film short clips.
 
-## Future Goals
-- Image analysis
-- Interactive knowledge maps
-- Symbolic tagging engine
-- Autonomous archive crawler
-- AI-generated pathways between media
+---
 
-## Technologies
-- Python
-- Transformers
-- Hugging Face
-- GitHub
-- Experimental AI systems
+## What this notebook is for
 
-## Status
-Early foundation build.
+A corridor of notes toward an archive that might one day:
 
-transformers
-torch
+- organize information  
+- generate connections  
+- sit with neglected digital artifacts  
+- open rabbit holes between subjects  
 
+Early language imagined Hugging Face / transformers-style tooling. That stack was **never implemented here**. Treat this repo as honest intent and phrasing — not as a runnable Archive AI system.
+
+---
+
+## Mission phrases we keep
+
+Information is the mission. Curiosity is the vehicle. Exploration never ends.
+
+Where the mission is every mission that is about information.
+
+Art survives where systems decay. This is not a portfolio. This is a corridor.
+
+**Aesthetic:** Dark Romanticism / Contemporary Gothic · Neglect Archive · cybercore night.
+
+---
+
+## Where the work lives
+
+| Piece | Role | Link |
+|-------|------|------|
+| **Amienigma AI** | Flagship creative studio (chat / stills / video / Discover) | [amienigma-llm](https://github.com/Amienigma/amienigma-llm) |
+| **108 LOCK** | Signature night grade + Texas symbol stamps (legacy repo name) | [amienigma-flagship-mobile-ui-demo](https://github.com/Amienigma/amienigma-flagship-mobile-ui-demo) |
+| **This repo** | Vision notebook for Archive Intelligence | you are here |
+
+Studio: The Original Enigma Studios / Amienigma Studios  
+Blog: [amienigma.art.blog](https://amienigma.art.blog/)  
+GitHub: [Amienigma](https://github.com/Amienigma)
+
+---
+
+*Status: vision / research. Product ships elsewhere.*
