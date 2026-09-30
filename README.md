@@ -18,7 +18,7 @@ It is **not** a runnable AI stack and **not** the shipping product.
 
 **108 LOCK** (night grade + Texas symbol stamps):
 
-→ [Amienigma/amienigma-flagship-mobile-ui-demo](https://github.com/Amienigma/amienigma-flagship-mobile-ui-demo) *(rename to `108-lock` pending)*
+→ [Amienigma/108-lock](https://github.com/Amienigma/108-lock)
 
 ---
 
