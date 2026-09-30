@@ -4,24 +4,32 @@
 
 > “The mission is every mission that is about information.”
 
-This repository is an **early vision / research notebook** (from around May 2026) for **Archive Intelligence** — ideas about art, memory, neglect, symbolism, recursive discovery, and hidden pathways across media.
+This repo is a **vision notebook** for Archive Intelligence — notes on art, memory, neglect, symbolism, and rabbit holes across media.
 
-It is **not** the shipping product. The product is **Amienigma AI**:
-
-→ **[Amienigma/amienigma-llm](https://github.com/Amienigma/amienigma-llm)** — ask anything, paint stills, film short clips.
+It is **not** a runnable AI stack and **not** the shipping product.
 
 ---
 
-## What this notebook is for
+## Shipping product
 
-A corridor of notes toward an archive that might one day:
+**Amienigma AI** lives here:
 
-- organize information  
-- generate connections  
-- sit with neglected digital artifacts  
-- open rabbit holes between subjects  
+→ [Amienigma/amienigma-llm](https://github.com/Amienigma/amienigma-llm) — *Ask anything. Paint stills. Film short clips.*
 
-Early language imagined Hugging Face / transformers-style tooling. That stack was **never implemented here**. Treat this repo as honest intent and phrasing — not as a runnable Archive AI system.
+**108 LOCK** (night grade + Texas symbol stamps):
+
+→ [Amienigma/amienigma-flagship-mobile-ui-demo](https://github.com/Amienigma/amienigma-flagship-mobile-ui-demo) *(rename to `108-lock` pending)*
+
+---
+
+## What belongs in this notebook
+
+- Phrases and mission language we keep
+- Neglect Archive posture (corridor, not portfolio)
+- Aesthetic notes (Dark Romanticism / Contemporary Gothic · cybercore night)
+- Pointers into the products that actually ship
+
+Early drafts once imagined Hugging Face / transformers tooling here. That stack was **never built in this repo**. Do not expect `app.py`, `models/`, or CI.
 
 ---
 
@@ -33,22 +41,22 @@ Where the mission is every mission that is about information.
 
 Art survives where systems decay. This is not a portfolio. This is a corridor.
 
-**Aesthetic:** Dark Romanticism / Contemporary Gothic · Neglect Archive · cybercore night.
+---
+
+## Notes in this repo
+
+| File | What it is |
+|------|------------|
+| [`notes/mission.md`](notes/mission.md) | Core triad + Neglect Archive language |
+| [`notes/aesthetic.md`](notes/aesthetic.md) | Visual / tonal lane for Archive Intelligence |
+| [`notes/entry-points.md`](notes/entry-points.md) | Where to go instead of treating this as the product |
 
 ---
 
-## Where the work lives
+## Studio
 
-| Piece | Role | Link |
-|-------|------|------|
-| **Amienigma AI** | Flagship creative studio (chat / stills / video / Discover) | [amienigma-llm](https://github.com/Amienigma/amienigma-llm) |
-| **108 LOCK** | Signature night grade + Texas symbol stamps (legacy repo name) | [amienigma-flagship-mobile-ui-demo](https://github.com/Amienigma/amienigma-flagship-mobile-ui-demo) |
-| **This repo** | Vision notebook for Archive Intelligence | you are here |
-
-Studio: The Original Enigma Studios / Amienigma Studios  
+The Original Enigma Studios / Amienigma Studios  
 Blog: [amienigma.art.blog](https://amienigma.art.blog/)  
 GitHub: [Amienigma](https://github.com/Amienigma)
 
----
-
-*Status: vision / research. Product ships elsewhere.*
+*Status: vision / research. Product ships in `amienigma-llm` and 108 LOCK.*
